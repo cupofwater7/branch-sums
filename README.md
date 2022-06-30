@@ -1,4 +1,7 @@
+                                                Coding Interview Questions
 # branch-sums
+
+Difficulty: easy
 
 
   Write a function that takes in a Binary Tree and returns a list of its branch
